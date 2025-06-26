@@ -79,5 +79,9 @@ public class TestAllureListener extends DriverFactory implements ITestListener {
 	public void onTestFailedButWithinSuccessPercentage(ITestResult iTestResult) {
 		System.out.println("Test failed but it is in defined success ratio " + getTestMethodName(iTestResult));
 	}
+	
+	/*
+	 * leave it
+	 */
 
 }
