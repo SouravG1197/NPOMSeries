@@ -1,4 +1,4 @@
-package com.qa.opencart.utils;
+package com.qa.opencart.pages;
 
 public class CartPage {
 
